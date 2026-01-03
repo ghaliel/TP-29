@@ -49,13 +49,15 @@ docker ps | grep rabbitmq
 
 ### Interface de Management RabbitMQ
 
-![RabbitMQ Dashboard - Overview](Screenshot%202026-01-01%20212416.png)
+![RabbitMQ Dashboard - Overview] (<img width="1005" height="525" alt="image" src="https://github.com/user-attachments/assets/5b83e52c-1f7e-46a5-992d-9fe7c4e05cb9" />)
 *Dashboard principal avec vue d'ensemble des connexions, channels, et statistiques*
 
-![RabbitMQ Queues](Screenshot%202026-01-01%20212421.png)
+![RabbitMQ Queues]
+(<img width="1005" height="530" alt="image-1" src="https://github.com/user-attachments/assets/0e654b25-c177-471d-b7cd-586ecf94058b" />)
+
 *Interface de gestion des queues avec possibilité de créer, consulter et gérer les messages*
 
-![RabbitMQ Exchanges](Screenshot%202026-01-01%20212428.png)
+![RabbitMQ Exchanges](<img width="1011" height="515" alt="image-2" src="https://github.com/user-attachments/assets/65b62f38-b893-4c1b-ac74-b07c0e6e534e" />)
 *Interface de gestion des exchanges avec configuration des bindings*
 
 ## 🏃 Utilisation
